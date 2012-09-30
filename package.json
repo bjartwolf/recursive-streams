@@ -1,0 +1,4 @@
+{"name" : "recursive_streams_demo"
+, "version" : "0.0.1"
+, "dependencies" : { "rx" : ">= 2.0.0" } } 
+
